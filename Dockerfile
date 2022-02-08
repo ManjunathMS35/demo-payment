@@ -1,5 +1,5 @@
 # select parent image
-FROM debian:10
+FROM debian:11
 
 # Update
 RUN apt update
